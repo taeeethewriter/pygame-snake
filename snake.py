@@ -1,6 +1,6 @@
 ''''''
 Snake game.
-Authors:'''''''''''''''''''''''''''''''''''''''''''''
+Authors:
 Snake game.
 Authors:
 Taiha Greenfield, Deja Jones, Caetia Short
